@@ -1,0 +1,1 @@
+Do you know what your Ubuntu Linux system is doing with your private information?  Find out at http://foxtrot7security.blogspot.com/2013/04/ubuntu-linux-improving-privacy-and.html -- and then configure your system using the pangolin-lockdown-utility to better protect your privacy and resist external attacks.
